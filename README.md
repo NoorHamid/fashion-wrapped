@@ -36,12 +36,9 @@ The project demonstrates the full analyst workflow: raw data → cleaning → an
 ```
 fashion-wrapped/
 │
-├── data/
-│   └── wardrobe_data.csv          # Personal purchase & wear tracking data
+├── wardrobe_data.csv          # Personal purchase & wear tracking data
 │
 ├── fashion_wrapped_analysis.ipynb  # Full Python analysis notebook
-│
-├── fashion_wrapped.html            # Interactive scrolling visual (the "Wrapped")
 │
 └── README.md
 ```
