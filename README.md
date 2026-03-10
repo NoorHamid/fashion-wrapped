@@ -76,7 +76,6 @@ The HTML output is an 8-slide scroll experience.
 ![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-grey?style=flat)
-![HTML](https://img.shields.io/badge/HTML%2FCSS%2FJS-E34F26?style=flat&logo=html5&logoColor=white)
 
 - **Python** — data cleaning, analysis, metric derivation
 - **Pandas** — aggregation, groupby, derived columns
